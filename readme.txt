@@ -6,9 +6,11 @@ Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 1.0
 
+CTickers is an awesome, super lightweight plug-in for your WordPress website which allow you to show your Post or News as a Ticker.
+
 == Description ==
 
-CTickers is an awesome, super lightweight plug-in for your WordPress website which allow you to show your Post or News as a Ticker.The plug-in will help you to using your News or Post as a ticker in your WordPress theme. You can embed news or post using the CTicker shortcode in everywhere you want, even in theme files.
+CTicker will help you to using your News or Post as a ticker in your WordPress theme. You can embed news or post using the CTicker shortcode in everywhere you want, even in theme files.
 
 Wanna see how it works? Click here: http://demo.coderexperts.com/cticker/
 
