@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 4.1.1
 Stable tag: 1.0
 
-CTickers is an awesome, super lightweight plug-in for your WordPress website which allow you to show your Post or News as a Ticker.
+CTicker is an awesome, super lightweight plugin for your WordPress website which allow you to show your Post or News as a Ticker.
 
 == Description ==
 
