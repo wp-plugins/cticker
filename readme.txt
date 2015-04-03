@@ -18,16 +18,6 @@ Need freelance support, please visit my [website](http://sayfur-rahman.com/).
 
 [BUY A CUP OF COFFEE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U92AWS24X4E5S)
 
-== Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
-
-1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Use shortcode in page, post or in widgets.
-4. If you want post ticker in your theme php, Place `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
 
 Shortcodes
 
@@ -66,6 +56,16 @@ Shortcodes
 <strong>CTicker Hover Effect</strong>
 <pre>[cticker_list id="hover" hover="true"]</pre>
 
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Use shortcode in page, post or in widgets.
+4. If you want post ticker in your theme php, Place `<?php echo do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
 
 
 == Changelog ==
