@@ -19,7 +19,7 @@ Need freelance support, please visit my [website](http://sayfur-rahman.com/).
 [BUY A CUP OF COFFEE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U92AWS24X4E5S)
 
 
-Shortcodes
+<strong>Shortcodes</strong>
 
 <strong>General CTicker Shortcode</strong>
 <pre>[cticker_list id="ctickerid"]</pre>
