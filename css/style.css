@@ -1,0 +1,67 @@
+.tickercontainer {
+	height: 30px;
+	overflow: hidden; 
+	width: 74%;
+	float: left;
+}
+
+.tickercontainer .mask { 
+	position: relative;
+	top: 0px;
+	height: 30px;
+	overflow: hidden;
+}
+
+ul.newsticker { 
+	-webkit-transition: all 0s linear;
+	-moz-transition: all 0s linear;
+	-o-transition: all 0s linear;
+	transition: all 0s linear;
+	position: relative;
+	margin-left: 20px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul.newsticker li {
+	float: left;
+	margin: 0;
+	padding-right: 15px;
+}
+
+ul.newsticker a {
+	white-space: nowrap;
+	padding: 0;
+	border: none;
+	text-decoration: none;
+} 
+
+ul.newsticker span {
+	margin: 0 10px 0 0;
+}
+
+
+.ticker-body{
+	width: 100%%;
+	display: block;
+	overflow: hidden;
+}
+
+.ticker-left {
+	width: 25%;
+	height: 30px;
+	float: left;
+	overflow: hidden;
+	margin-right: 1%;
+	text-align: center;
+}
+
+.ticker-left p {
+	padding-top: 3px;
+}
+
+.mce-cticker-mcepopup {
+	overflow-x: scroll;
+	height: 400px !important;
+}
